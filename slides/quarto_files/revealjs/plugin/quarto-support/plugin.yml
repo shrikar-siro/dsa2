@@ -1,5 +1,8 @@
 name: QuartoSupport
 script: support.js
 stylesheet: footer.css
+format:
+  revealjs: 
+    pdf-export: true
 config:
   smaller: false
